@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a university student studying materials engineering and machine-learning.\\
+I'm a university student studying materials engineering and machine-learning.  
 材料工学分野と機械学習を学んでいる学生です。  
   
 - 2022 Sep 3rd to Nov 5th 経済産業省-マナビDX Gold終了 オープンバッチのリンク→https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/RnhCdFNEVXpXL2pMUStOODd6NHBRdz09
