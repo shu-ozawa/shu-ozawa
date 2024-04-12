@@ -7,6 +7,7 @@ I'm a university student studying materials engineering and machine-learning.
 - 2022 Sep to 2023 Feb GCI2022Winter　(データ分析およびマーケティングのプログラム)
 - 2023 Sep Finance Spring 2023　
 - 2023 Apr Deep Learning Basic 2023
+- 2023 Aug 第8回 芝浦ビジネスモデルコンペティション 8th Shibaura Business Model Competition (SBMC) 参加　入賞 https://core.digitary.net/r/badges/public/assertion/mnjKTSVfS1SJgLZa0WZ3yQ
 
 <!--
 **shu-ozawa/shu-ozawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
